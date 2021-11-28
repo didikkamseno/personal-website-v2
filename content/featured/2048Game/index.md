@@ -5,7 +5,7 @@ cover: './demo.png'
 github: 'https://github.com/arviinmo/2048game'
 external: 'https://20482048.vercel.app/'
 tech:
-  - javascript
+  - Javascript
   - ES6
   - Sass
 showInProjects: true
