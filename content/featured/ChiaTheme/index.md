@@ -1,11 +1,12 @@
 ---
 date: '1'
-title: 'Chia Theme'
+title: 'Chia | VSCode Theme'
 cover: './chia.png'
 github: 'https://github.com/arviinmo/chia-website'
 external: 'https://chia.vercel.app/'
 tech:
   - VSCode
+  - Theme
 showInProjects: true
 ---
 

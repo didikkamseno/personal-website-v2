@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+small clone project that i build just for fun. I have played the 2048 game since I was a child. I even now enjoy playing the 2048 game so I decided to make a clone project of this amazing game. 
