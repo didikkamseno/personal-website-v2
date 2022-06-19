@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Helka | personal blog'
+title: 'Dagh | calculate reading time very fast!'
 cover: './Dagh.png'
-github: 'https://github.com/arviinmo/blogsourcecode'
-external: 'https://helka.vercel.app/'
+github: 'https://github.com/arviinmo/Dagh'
+external: 'https://Dagh.vercel.app/'
 tech:
   - Javascript
   - React
