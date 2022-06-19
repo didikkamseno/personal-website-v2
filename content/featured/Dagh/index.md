@@ -5,13 +5,11 @@ cover: './Dagh.png'
 github: 'https://github.com/arviinmo/Dagh'
 external: 'https://Dagh.vercel.app/'
 tech:
-  - Javascript
   - React
   - Styled-components
-  - Webpack
-  - ES6
+  - TypeScript
   - JSX
-  - Side-project
+
 showInProjects: true
 ---
 
