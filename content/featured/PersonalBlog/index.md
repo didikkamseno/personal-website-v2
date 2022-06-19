@@ -1,5 +1,5 @@
 ---
-date: '41'
+date: '4'
 title: 'Helka | personal blog'
 cover: './blog.png'
 github: 'https://github.com/arviinmo/blogsourcecode'
