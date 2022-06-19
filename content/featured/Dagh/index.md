@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Dagh | calculate reading time <br>
+title: 'Dagh | calculate reading time
 very fast! (in progress)'
 cover: './Dagh.png'
 github: 'https://github.com/arviinmo/Dagh'
