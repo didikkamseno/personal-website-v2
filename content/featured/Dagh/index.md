@@ -1,6 +1,7 @@
 ---
 date: '3'
-title: 'Dagh | calculate reading time <br> very fast! (in progress)'
+title: 'Dagh | calculate reading time <br>
+very fast! (in progress)'
 cover: './Dagh.png'
 github: 'https://github.com/arviinmo/Dagh'
 external: 'https://Dagh.vercel.app/'
