@@ -1,17 +1,18 @@
 ---
 date: '3'
-title: 'Dagh | calculate reading time very fast!'
+title: 'Dagh | calculate reading time very fast! <b>(in progress)<b>'
 cover: './Dagh.png'
 github: 'https://github.com/arviinmo/Dagh'
 external: 'https://Dagh.vercel.app/'
 tech:
   - Javascript
   - React
-  - Gatsby
+  - Styled-components
   - Webpack
   - ES6
   - JSX
+  - Side-project
 showInProjects: true
 ---
 
-created my personal blog by Getting inspiration from <a href="https://overreacted.io/">overreacted.io</a>. I used many technologies to build this project, such as: React, Lodash, Gatsby and ...
+working on building a project that can calculate time you need for reading a text with veriety of reading speed which can be helpful for blogger and content creator.(this project is still in progress and haven't been completed yet)
