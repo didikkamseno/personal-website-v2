@@ -5,7 +5,7 @@ cover: './Palora.png'
 github: 'https://github.com/arviinmo/palora'
 external: 'https://palora.vercel.app/'
 tech:
-  - React
+  - Reac
   - Nextjs
   - Tailwind
   - JSX
