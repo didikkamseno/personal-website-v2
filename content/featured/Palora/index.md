@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-password generator project, created with Nextjs and designed by Tailwind and some bounch of react library like "react-toastify" and etc.
+password generator project, created with NextJs and designed by Tailwind and some bunch of react libraries like "react-toastify" and etc.
