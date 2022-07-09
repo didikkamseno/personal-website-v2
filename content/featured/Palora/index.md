@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Palora | Strongest password Generator ever!'
+title: 'Palora | password Generator'
 cover: './Palora.png'
 github: 'https://github.com/arviinmo/palora'
 external: 'https://palora.vercel.app/'
